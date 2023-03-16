@@ -1,6 +1,6 @@
 # 20CYS383 Java Programming Lab
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
-![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple) 
+![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple) 
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
@@ -9,7 +9,7 @@
 ### Course Outcome
 
 | CO#  | CO Description |
-|------|----------------|
+|:------:|:----------------|
 | CO1 | Execute Java programs using object-oriented class structures with parameters, constructors, and utility and calculations methods, including inheritance, test classes and exception handling. |
 | CO2 | Execute Java programs manipulating Strings and text documents. |
 | CO3 | Execute Java programs that include GUIs and event driven programming. |
@@ -17,7 +17,7 @@
 ### Course Plan 
 
 | Unit # | Lecture No. | Topic | No. of Hours |
-|:------:|:-----------:|-------|:------------:|
+|:------:|:-----------:|:-------|:------------:|
 |    1   |             | Introduction to Java |   |
 |    1   |             | Introduction to Classes and Objects |  | 
 |    1   |             | Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
@@ -44,7 +44,7 @@
 | Components | Marks |
 |:----------|:-----:|
 | **[Internal]** Lab Evaluation/Contests (6 Nos) | 30 |
-| **[Internal]** Mini-Project | 10 + 10 |
+| **[Internal]** Mini-Project + GitHub/Record Maintenance | 10 + 10 |
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 20 |
@@ -52,21 +52,21 @@
 ### Dates and Deadlines
 
 | Deadline for | Dates |
-|:------------:|:-----:|
-| Pair Programmer Selection | 20 - Feb - 2023 |
-| Project Team Selection | 20 - Feb - 2023 |
-| Contest - 1 | 02 - Mar - 2023 |
-| Contest - 2 | 21 - Mar - 2023 |
-| Periodicals I | TBD |
-| Contest - 3 | 12 - Apr - 2023 |
-| Mini-Project Review 1 | 15 - Apr - 2023 |
-| Contest - 4 | 29 - Apr - 2023 |
+|:------------|:-----:|
+| Intimation - Pair Programmer | 10 - Feb - 2023 |
+| Pair Programmer Selection | 11 - Feb - 2023 <br> to <br> 13 - Feb - 2023 |
+| Pair Programmer Finalization | 18 - Feb - 2023 |
+| Project Topic Finalization | 25 - Feb - 2023 |
+| Contest - 1 | 20 - Mar - 2023 |
+| Periodicals I | 05 - Mar - 2023  |
+| Mini-Project Review 1| 15 - Apr - 2023 |
+| Contest - 2 |  - Apr - 2023 |
 | Periodicals II | TBD |
-| Contest - 5 | 10 - May - 2023 |
+| Contest - 3 | 08 - May - 2023 |
 | Mini-Project Review 2 | 15 - May - 2023 |
-| Contest - 6 | 25 - May - 2023 |
-| Contest - 7 | 01 - Jun - 2023 |
-| Contest - 8 | 15 - Jun - 2023 |
+| Contest - 4 | 25 - May - 2023 |
+| Contest - 5 | 01 - Jun - 2023 |
+| Contest - 6 | 15 - Jun - 2023 |
 | Mini-Project Review Final | 20 - Jun - 2023 |
 | End Semester | TBD |
 
